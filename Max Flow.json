@@ -1,0 +1,50 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Max Flow",
+      "message": {
+        "embeds": [
+          {
+            "title": "Max Flow",
+            "description": "Many computer scientists have nightmares about the daunting task of finding the max flow. Can you handle it?\n\nThere are T (1 ≤ T ≤ 10) scenarios. In each scenario, there are N (1 ≤ N ≤ 10) flows, and the value of the i-th flow is Fi (1 ≤ Fi ≤ 100) - your job is to find the largest of the flow values.",
+            "color": 65460,
+            "fields": [
+              {
+                "name": "Input Specifications",
+                "value": "Line 1: 1 integer, T\nFor each scenario:\nLine 1: 1 integer, N\nNext N lines: 1 integer, Fi, for i=1…N"
+              },
+              {
+                "name": "Output Specifications",
+                "value": "For each scenario:\nLine 1: The largest flow value."
+              },
+              {
+                "name": "Sample Input",
+                "value": "2\n4\n2\n5\n3\n5\n1\n1",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "5\n1",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **Max Flow**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\n_This challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/735513163679662100/745115834216612000/avatarfinal.thumb.gif.6f7e3f9ad41759828a04b3eb8bfb589c.gif"
+            },
+            "timestamp": "2020-10-18T00:23:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
